@@ -81,19 +81,19 @@
             "id": "Accessory_AirDash1"
         },
         {
-            "name": "All-Purpose Pal Extract\u00e2\u02dc\u20201",
+            "name": "All-Purpose Pal Extract",
             "id": "Rankup_1"
         },
         {
-            "name": "All-Purpose Pal Extract\u00e2\u02dc\u20202 +1",
+            "name": "All-Purpose Pal Extract +1",
             "id": "Rankup_2"
         },
         {
-            "name": "All-Purpose Pal Extract\u00e2\u02dc\u20203 +2",
+            "name": "All-Purpose Pal Extract +2",
             "id": "Rankup_3"
         },
         {
-            "name": "All-Purpose Pal Extract\u00e2\u02dc\u20204 +3",
+            "name": "All-Purpose Pal Extract +3",
             "id": "Rankup_4"
         },
         {
@@ -137,47 +137,47 @@
             "id": "BossDefeatReward_Anubis"
         },
         {
-            "name": "Applied Cooling Technique\u00e2\u2026\u00a0",
+            "name": "Applied Cooling Technique",
             "id": "WorkSuitability_AddTicket_Cool"
         },
         {
-            "name": "Applied Fire Starting Technique\u00e2\u2026\u00a0",
+            "name": "Applied Fire Starting Technique",
             "id": "WorkSuitability_AddTicket_EmitFlame"
         },
         {
-            "name": "Applied Gathering Technique\u00e2\u2026\u00a0",
+            "name": "Applied Gathering Technique",
             "id": "WorkSuitability_AddTicket_Collection"
         },
         {
-            "name": "Applied Lumberjack Technique\u00e2\u2026\u00a0",
+            "name": "Applied Lumberjack Technique",
             "id": "WorkSuitability_AddTicket_Deforest"
         },
         {
-            "name": "Applied Manual Labor Technique\u00e2\u2026\u00a0",
+            "name": "Applied Manual Labor Technique",
             "id": "WorkSuitability_AddTicket_Handcraft"
         },
         {
-            "name": "Applied Mining Technique\u00e2\u2026\u00a0",
+            "name": "Applied Mining Technique",
             "id": "WorkSuitability_AddTicket_Mining"
         },
         {
-            "name": "Applied Pharmacology Technique\u00e2\u2026\u00a0",
+            "name": "Applied Pharmacology Technique",
             "id": "WorkSuitability_AddTicket_ProductMedicine"
         },
         {
-            "name": "Applied Power Generation Technique\u00e2\u2026\u00a0",
+            "name": "Applied Power Generation Technique",
             "id": "WorkSuitability_AddTicket_GenerateElectricity"
         },
         {
-            "name": "Applied Seed Sowing Technique\u00e2\u2026\u00a0",
+            "name": "Applied Seed Sowing Technique",
             "id": "WorkSuitability_AddTicket_Seeding"
         },
         {
-            "name": "Applied Transportation Technique\u00e2\u2026\u00a0",
+            "name": "Applied Transportation Technique",
             "id": "WorkSuitability_AddTicket_Transport"
         },
         {
-            "name": "Applied Watering Technique\u00e2\u2026\u00a0",
+            "name": "Applied Watering Technique",
             "id": "WorkSuitability_AddTicket_Watering"
         },
         {
@@ -6065,7 +6065,7 @@
             "id": "Kitsunebi_Fire"
         },
         {
-            "name": "LargeBullet",
+            "name": "Sniper Ammo",
             "id": "LargeBullet"
         },
         {
@@ -6097,15 +6097,15 @@
             "id": "PAL_Growth_Stone_XL"
         },
         {
-            "name": "WaterBucket",
+            "name": "Water Bucket",
             "id": "WaterBucket"
         },
         {
-            "name": "CashFang",
+            "name": "Cash Fang",
             "id": "CashFang"
         },
         {
-            "name": "CashScales",
+            "name": "Cash Scales",
             "id": "CashScales"
         },
         {
@@ -6121,75 +6121,79 @@
             "id": "MateItem01"
         },
         {
-            "name": "CaptureRope",
+            "name": "Capture Rope",
             "id": "CaptureRope"
         },
         {
-            "name": "Launcher_Meat",
+            "name": "Meat Launcher",
             "id": "Launcher_Meat"
         },
         {
-            "name": "PenguinLauncher",
+            "name": "Penguin Launcher",
             "id": "PenguinLauncher"
         },
         {
-            "name": "SniperRifle_Default",
+            "name": "Sniper Rifle",
             "id": "SniperRifle_Default"
         },
         {
-            "name": "ThrowStone",
+            "name": "Throw Stone",
             "id": "ThrowStone"
         },
         {
-            "name": "RecurveBow",
+            "name": "Recurve Bow",
             "id": "RecurveBow"
         },
         {
-            "name": "AirGrapplingGun",
+            "name": "Grappling Gun",
             "id": "AirGrapplingGun"
         },
+		{
+            "name": "Assault Rifle",
+            "id": "AssaultRifle_Default1"
+        },
         {
-            "name": "AssaultRifle_Default2",
+            "name": "Assault Rifle +1",
             "id": "AssaultRifle_Default2"
         },
         {
-            "name": "AssaultRifle_Default3",
+            "name": "Assault Rifle +2",
             "id": "AssaultRifle_Default3"
         },
         {
-            "name": "AssaultRifle_Default4",
+            "name": "Assault Rifle +3",
             "id": "AssaultRifle_Default4"
         },
         {
-            "name": "AssaultRifle_Default5",
+            "name": "Assault Rifle +4",
             "id": "AssaultRifle_Default5"
         },
         {
-            "name": "en Text +1",
+            "name": "Cloth Armor",
             "id": "ClothArmor_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Fur Armor",
             "id": "FurArmor_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Copper Armor",
             "id": "CopperArmor_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Iron Armor",
             "id": "IronArmor_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Steel Armor",
             "id": "StealArmor_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Weak Bow",
             "id": "WeakerBow_2"
         },
         {
-            "name": "en Text +1",
+            "name": "Crossbow",
             "id": "BowGun_2"
         },
         {
@@ -6382,82 +6386,102 @@
         },
         {
             "name": "Hallowed Mask",
+            "id": "YakushimaHeadEquip001_1"
+        },
+		{
+            "name": "Hallowed Mask +1",
             "id": "YakushimaHeadEquip001_2"
         },
         {
-            "name": "Hallowed Mask",
+            "name": "Hallowed Mask +2",
             "id": "YakushimaHeadEquip001_3"
         },
         {
-            "name": "Hallowed Mask",
+            "name": "Hallowed Mask +3",
             "id": "YakushimaHeadEquip001_4"
         },
         {
-            "name": "Hallowed Mask",
+            "name": "Hallowed Mask +4",
             "id": "YakushimaHeadEquip001_5"
         },
-        {
+		{
             "name": "Hallowed Headgear",
+            "id": "YakushimaHeadEquip002_1"
+        },
+        {
+            "name": "Hallowed Headgear +1",
             "id": "YakushimaHeadEquip002_2"
         },
         {
-            "name": "Hallowed Headgear",
+            "name": "Hallowed Headgear +2",
             "id": "YakushimaHeadEquip002_3"
         },
         {
-            "name": "Hallowed Headgear",
+            "name": "Hallowed Headgear +3",
             "id": "YakushimaHeadEquip002_4"
         },
         {
-            "name": "Hallowed Headgear",
+            "name": "Hallowed Headgear +4",
             "id": "YakushimaHeadEquip002_5"
         },
-        {
+		{
             "name": "Hallowed Plate Mail",
+            "id": "YakushimaArmor001_1"
+        },
+        {
+            "name": "Hallowed Plate Mail +1",
             "id": "YakushimaArmor001_2"
         },
         {
-            "name": "Hallowed Plate Mail",
+            "name": "Hallowed Plate Mail +2",
             "id": "YakushimaArmor001_3"
         },
         {
-            "name": "Hallowed Plate Mail",
+            "name": "Hallowed Plate Mail +3",
             "id": "YakushimaArmor001_4"
         },
         {
-            "name": "Hallowed Plate Mail",
+            "name": "Hallowed Plate Mail +4",
             "id": "YakushimaArmor001_5"
         },
-        {
+		{
             "name": "Hallowed Helmet",
+            "id": "YakushimaHeadEquip003_1"
+        },
+        {
+            "name": "Hallowed Helmet +1",
             "id": "YakushimaHeadEquip003_2"
         },
         {
-            "name": "Hallowed Helmet",
+            "name": "Hallowed Helmet +2",
             "id": "YakushimaHeadEquip003_3"
         },
         {
-            "name": "Hallowed Helmet",
+            "name": "Hallowed Helmet +3",
             "id": "YakushimaHeadEquip003_4"
         },
         {
-            "name": "Hallowed Helmet",
+            "name": "Hallowed Helmet +4",
             "id": "YakushimaHeadEquip003_5"
         },
-        {
+		{
             "name": "Hallowed Hood",
+            "id": "YakushimaHeadEquip004_1"
+        },
+        {
+            "name": "Hallowed Hood +1",
             "id": "YakushimaHeadEquip004_2"
         },
         {
-            "name": "Hallowed Hood",
+            "name": "Hallowed Hood +2",
             "id": "YakushimaHeadEquip004_3"
         },
         {
-            "name": "Hallowed Hood",
+            "name": "Hallowed Hood +3",
             "id": "YakushimaHeadEquip004_4"
         },
         {
-            "name": "Hallowed Hood",
+            "name": "Hallowed Hood +4",
             "id": "YakushimaHeadEquip004_5"
         },
         {
@@ -6540,81 +6564,105 @@
             "name": "Celestial Sigil Schematic",
             "id": "Blueprint_PalSummon_YakushimaBoss002"
         },
-        {
+		{
             "name": "Terra Blade",
+            "id": "YakushimaBlade002_1"
+        },
+        {
+            "name": "Terra Blade +1",
             "id": "YakushimaBlade002_2"
         },
         {
-            "name": "Terra Blade",
+            "name": "Terra Blade +2",
             "id": "YakushimaBlade002_3"
         },
         {
-            "name": "Terra Blade",
+            "name": "Terra Blade +3",
             "id": "YakushimaBlade002_4"
         },
         {
-            "name": "Terra Blade",
+            "name": "Terra Blade +4",
             "id": "YakushimaBlade002_5"
         },
-        {
+		{
             "name": "Terraprisma",
+            "id": "YakushimaBlade003_1"
+        },
+        {
+            "name": "Terraprisma +1",
             "id": "YakushimaBlade003_2"
         },
         {
-            "name": "Terraprisma",
+            "name": "Terraprisma +2",
             "id": "YakushimaBlade003_3"
         },
         {
-            "name": "Terraprisma",
+            "name": "Terraprisma +3",
             "id": "YakushimaBlade003_4"
         },
         {
-            "name": "Terraprisma",
+            "name": "Terraprisma +4",
             "id": "YakushimaBlade003_5"
         },
-        {
+		{
             "name": "Vortex Beater",
+            "id": "YakushimaGun001_1"
+        },
+        {
+            "name": "Vortex Beater +1",
             "id": "YakushimaGun001_2"
         },
         {
-            "name": "Vortex Beater",
+            "name": "Vortex Beater +2",
             "id": "YakushimaGun001_3"
         },
         {
-            "name": "Vortex Beater",
+            "name": "Vortex Beater +3",
             "id": "YakushimaGun001_4"
         },
         {
-            "name": "Vortex Beater",
+            "name": "Vortex Beater +4",
             "id": "YakushimaGun001_5"
         },
-        {
+		{
             "name": "Nightglow",
+            "id": "YakushimaLantern001_1"
+        },
+        {
+            "name": "Nightglow +1",
             "id": "YakushimaLantern001_2"
         },
         {
-            "name": "Nightglow",
+            "name": "Nightglow +2",
             "id": "YakushimaLantern001_3"
         },
         {
-            "name": "Nightglow",
+            "name": "Nightglow +3",
             "id": "YakushimaLantern001_4"
         },
         {
-            "name": "Nightglow",
+            "name": "Nightglow +4",
             "id": "YakushimaLantern001_5"
         },
-        {
+		{
             "name": "Excalibur",
+            "id": "YakushimaBlade004_1"
+        },
+        {
+            "name": "Excalibur +1",
             "id": "YakushimaBlade004_2"
         },
         {
-            "name": "Excalibur",
+            "name": "Excalibur +2",
             "id": "YakushimaBlade004_3"
         },
         {
-            "name": "Excalibur",
+            "name": "Excalibur +3",
             "id": "YakushimaBlade004_4"
+        },
+		{
+            "name": "Excalibur +4",
+            "id": "YakushimaBlade004_5"
         },
         {
             "name": "Excalibur Schematic 3",
@@ -6881,23 +6929,23 @@
             "id": "Blueprint_YakushimaBlade004_3"
         },
         {
-            "name": "Treasure Map",
+            "name": "Common Treasure Map",
             "id": "TreasureMap01"
         },
         {
-            "name": "Treasure Map",
+            "name": "Uncommon Treasure Map",
             "id": "TreasureMap02"
         },
         {
-            "name": "Treasure Map",
+            "name": "Rare Treasure Map",
             "id": "TreasureMap03"
         },
         {
-            "name": "Treasure Map",
+            "name": "Epic Treasure Map",
             "id": "TreasureMap04"
         },
         {
-            "name": "Treasure Map",
+            "name": "Legendary Treasure Map",
             "id": "TreasureMap05"
         },
         {
@@ -7016,6 +7064,10 @@
             "name": "Beginner Fishing Rod (Gumoss)",
             "id": "FishingRod_01_2"
         },
+		{
+            "name": "Energy Shotgun Schematic",
+            "id": "Blueprint_EnergyShotgun_1"
+        },
         {
             "name": "Energy Shotgun Schematic 1",
             "id": "Blueprint_EnergyShotgun_2"
@@ -7032,52 +7084,64 @@
             "name": "Energy Shotgun Schematic 4",
             "id": "Blueprint_EnergyShotgun_5"
         },
-        {
+		{
             "name": "Energy Shotgun",
+            "id": "EnergyShotgun_1"
+        },
+        {
+            "name": "Energy Shotgun +1",
             "id": "EnergyShotgun_2"
         },
         {
-            "name": "Energy Shotgun",
+            "name": "Energy Shotgun +2",
             "id": "EnergyShotgun_3"
         },
         {
-            "name": "Energy Shotgun",
+            "name": "Energy Shotgun +3",
             "id": "EnergyShotgun_4"
         },
         {
-            "name": "Energy Shotgun",
+            "name": "Energy Shotgun +4",
             "id": "EnergyShotgun_5"
         },
-        {
+		{
             "name": "Charge Rifle",
+            "id": "ChargeLaserRifle_1"
+        },
+        {
+            "name": "Charge Rifle +1",
             "id": "ChargeLaserRifle_2"
         },
         {
-            "name": "Charge Rifle",
+            "name": "Charge Rifle +2",
             "id": "ChargeLaserRifle_3"
         },
         {
-            "name": "Charge Rifle",
+            "name": "Charge Rifle +3",
             "id": "ChargeLaserRifle_4"
         },
         {
-            "name": "Charge Rifle",
+            "name": "Charge Rifle +4",
             "id": "ChargeLaserRifle_5"
         },
-        {
+		{
             "name": "Overheat Rifle",
+            "id": "OverheatRifle_1"
+        },
+        {
+            "name": "Overheat Rifle +1",
             "id": "OverheatRifle_2"
         },
         {
-            "name": "Overheat Rifle",
+            "name": "Overheat Rifle +2",
             "id": "OverheatRifle_3"
         },
         {
-            "name": "Overheat Rifle",
+            "name": "Overheat Rifle +3",
             "id": "OverheatRifle_4"
         },
         {
-            "name": "Overheat Rifle",
+            "name": "Overheat Rifle +4",
             "id": "OverheatRifle_5"
         },
         {
@@ -7139,10 +7203,6 @@
         {
             "name": "Yakumo Statue Schematic",
             "id": "Blueprint_GuardianDogStatue"
-        },
-        {
-            "name": "Hallowed Hood",
-            "id": "YakushimaHeadEquip004"
         },
         {
             "name": "Moon Lord Mask",
@@ -7265,10 +7325,6 @@
             "id": "Lantern_High"
         },
         {
-            "name": "Hallowed Helmet",
-            "id": "YakushimaHeadEquip003"
-        },
-        {
             "name": "Charge Rifle Schematic 1",
             "id": "Blueprint_ChargeLaserRifle_2"
         },
@@ -7367,18 +7423,6 @@
         {
             "name": "Powerful Fishing Magnet",
             "id": "Salvage_TreasureBoxKey02"
-        },
-        {
-            "name": "Hallowed Mask",
-            "id": "YakushimaHeadEquip001"
-        },
-        {
-            "name": "Hallowed Headgear",
-            "id": "YakushimaHeadEquip002"
-        },
-        {
-            "name": "Hallowed Plate Mail",
-            "id": "YakushimaArmor001"
         },
         {
             "name": "Ice Skill Fruit: Freeze Wall",
