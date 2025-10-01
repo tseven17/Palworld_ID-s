@@ -1,0 +1,35 @@
+| Display Name | Dev Name | Element |
+|-------------|----------|---------|
+| Power Shot | PowerShot | Normal
+| Power Ball | PowerBall | Normal
+| Air Blade | AirBlade | Normal
+| Holy Blast | HolyBlast | Normal
+| Stone Cannon | RockLance | Earth
+| Hydro Jet | HydroJet | Water
+| Aqua Gun | AquaGun | Water
+| Bubble Blast | BubbleBurst | Water
+| Acid Rain | AcidRain | Water
+| Aqua Burst | AquaBurst | Water
+| Hydro Laser | HydroLaser | Water
+| Air Cannon | AirCannonBall | Normal
+| Punch | Punch | Normal | Melee |
+| Ice Missile | IceMissile | Ice
+| Icicle Cutter | IcicleCutter | Ice
+| Iceberg | Iceberg | Ice
+| Crystal Breath | FrostBreath | Ice
+| Blizzard Spike | BlizzardSpike | Ice
+| Ignis Blast | FireBall | Fire
+| Spirit Fire | FireSeed | Fire
+| Flare Arrow | FlareArrow | Fire
+| Ignis Breath | Flamethrower | Fire
+| Flare Storm | FlareTornado | Fire
+| Fire Ball | FireBall | Fire
+| Spark Blast | ElecWave | Electricity
+| Shockwave | ThunderFunnel | Electricity
+| Electric Ball | ElecBall | Electricity
+| Plasma Funnel | ElecFunnel | Electricity
+| Lock-on Laser | LaserBeam | Electricity
+| Lightning Streak | LineThunder | Electricity
+| Tri-Lightning | ThreeThunder | Electricity
+| Lightning Strike | ThunderStorm | Electricity
+| Lightning Bolt | ElecBeam | Electricity
