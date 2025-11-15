@@ -1,0 +1,18 @@
+/givestats and /givemestats no longer cause crashes.
+/delitem with Amount=0 now shows item count
+/givestats and /givemestats notify target players.
+/givestats default Amount is now 0 (displays unused points).
+/settime <hour> added (values: 0-23, day, night).
+/exportguilds
+/spectate added (toggle spectate mode). You can trigger spectate mode with shortcut \ (only Admin).
+/spawnpal <PalID> [X] [Y] [Z] [Level=1] added. (RCON requires coordinates.)
+/spawnpal_j <PalTemplate> [X] [Y] [Z] added. (RCON requires coordinates.)
+/renameplayer <UserID> <NewName> 
+/giveegg <UserID> <EggID> <PalID> [Level=1] 
+/givemeegg <EggID> <PalID> [Level=1] 
+/giveegg_j <UserID> <EggID> <PalTemplate> [Level=1] 
+/givemeegg_j <EggID> <PalTemplate> [Level=1] 
+/getnearestbase
+/gotonearestbase
+/killnearestbase
+
